@@ -57,7 +57,10 @@ python password_gen.py
 1. **Select your Length** from the dropdown.
 2. **Pick your Difficulty** (Weak, Normal, or Strong).
 3. **Hit Generate** to spawn your new password.
-4. **Feeling Extra Paranoid?** Click **Encrypt** to scramble it into an unreadable mess, and use **Decrypt** to bring it back to life later.
+4. <img width="602" height="142" alt="Στιγμιότυπο οθόνης 2026-01-14 190528" src="https://github.com/user-attachments/assets/f44b76de-46f8-4a41-8295-8c577c73c37d" />
+
+5. **Feeling Extra Paranoid?** Click **Encrypt** to scramble it into an unreadable mess, and use **Decrypt** to bring it back to life later.
+<img width="602" height="142" alt="Στιγμιότυπο οθόνης 2026-01-14 190543" src="https://github.com/user-attachments/assets/e12be7c9-88f1-4a90-95be-59d0b6677a1c" />
 
 ---
 
