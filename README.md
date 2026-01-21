@@ -5,6 +5,8 @@
 Built by **Thanos Katsifis**, this isn't just a random string generator. It’s a multi-layered security suite that generates, encrypts, and decrypts secrets using a custom mathematical "time-key" logic.
 
 ---
+<img width="602" height="142" alt="Στιγμιότυπο οθόνης 2026-01-14 190502" src="https://github.com/user-attachments/assets/f782766e-0de6-4b40-b000-d8e395ef1059" />
+
 
 ## 🛡️ The Superpowers
 
